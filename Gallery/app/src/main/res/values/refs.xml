@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="s1">@drawable/download</drawable>
+    <drawable name="sc2">@drawable/images</drawable>
+    <drawable name="dc">@drawable/d</drawable>
+</resources>

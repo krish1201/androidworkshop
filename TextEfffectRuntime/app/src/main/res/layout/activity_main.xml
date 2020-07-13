@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bold" />
+
+    <Button
+        android:id="@+id/italics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Italics" />
+
+    <Button
+        android:id="@+id/def"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Default" />
+</LinearLayout>
